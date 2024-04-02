@@ -1,4 +1,4 @@
-//criando um servidor web usando o Node
+//criando um servidor web usando o Node JS
 
 const http = require('http');
 
